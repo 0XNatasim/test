@@ -1,0 +1,6 @@
+web3
+discord.py
+python-dotenv
+
+
+pip install python-dotenv web3 discord.py
